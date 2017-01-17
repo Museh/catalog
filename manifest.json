@@ -1,0 +1,140 @@
+{
+    "manifest":[
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"1.0",
+            "name":"algemeen",
+            "search_term":"algemeen",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"2.0",
+            "name":"bevelen en instructies",
+            "search_term":"bevelen_en_instructies",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"3.0",
+            "name":"humanitaire hulp",
+            "search_term":"humanitaire_hulp",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"4.0",
+            "name":"militair",
+            "search_term":"militair",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"5.0",
+            "name":"plaats en afstand",
+            "search_term":"plaats_en_afstand",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"6.0",
+            "name":"tijd en hoeveelheid",
+            "search_term":"tijd_en_hoeveelheid",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
+            "category":"rubriek",
+            "id":"7.0",
+            "name":"waarschuwingen",
+            "search_term":"waarschuwingen",
+            "version":"1.0"
+        },
+        {
+            "available languages":"engels, somalisch, kroatisch",
+            "category":"rubriek",
+            "id":"8.0",
+            "name":"hostiles",
+            "search_term":"hostiles",
+            "version":"1.0"
+        },
+        {
+            "available languages":"engels, somalisch, kroatisch",
+            "category":"rubriek",
+            "id":"9.0",
+            "name":"friendlies",
+            "search_term":"friendlies",
+            "version":"1.0"
+        },
+        {
+            "available languages":"engels, somalisch, kroatisch",
+            "category":"rubriek",
+            "id":"10.0",
+            "name":"direction",
+            "search_term":"direction",
+            "version":"1.0"
+        },
+        {
+            "available languages":"engels, somalisch, kroatisch",
+            "category":"rubriek",
+            "id":"11.0",
+            "name":"greetings",
+            "search_term":"greetings",
+            "version":"1.0"
+        },
+        {
+            "available languages":"engels, somalisch, kroatisch",
+            "category":"rubriek",
+            "id":"12.0",
+            "name":"vocab",
+            "search_term":"vocab",
+            "version":"1.0"
+        },
+        {
+            "available languages":"engels, somalisch, kroatisch",
+            "category":"rubriek",
+            "id":"13.0",
+            "name":"numbers",
+            "search_term":"numbers",
+            "version":"1.0"
+        },
+        {
+            "available languages":"#",
+            "category":"spiekbrief",
+            "id":"14.0",
+            "name":"git",
+            "search_term":"git",
+            "version":"1.0"
+        },
+        {
+            "available languages":"nederlands, duits, engels, frans, spaans",
+            "category":"rubriek",
+            "id":"15.0",
+            "name":"politie woordenboek",
+            "search_term":"police_vocabulary",
+            "version":"1.0"
+        },
+        {
+            "available languages":"#",
+            "category":"spiekbrief",
+            "id":"16.0",
+            "name":"carnaval plaatsnamen",
+            "search_term":"carnaval_plaatsnamen",
+            "version":"1.0"
+        },
+        {
+            "available languages":"duits, afghaans",
+            "category":"rubriek",
+            "id":"17.0",
+            "name":"vluchtelingshulp",
+            "search_term":"vluchtelingshulp",
+            "version":"1.0"
+        }
+    ]
+}

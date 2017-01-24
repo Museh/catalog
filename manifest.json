@@ -16,7 +16,7 @@
             "list_location":"/bevelen_en_instructies",
             "list_name":"bevelen en instructies",
             "list_type":"rubriek",
-            "list_version":"2.0"
+            "list_version":"1.0"
         },
         {
             "available_languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
@@ -25,7 +25,7 @@
             "list_location":"/humanitaire_hulp",
             "list_name":"humanitaire hulp",
             "list_type":"rubriek",
-            "list_version":"2.0"
+            "list_version":"1.0"
         },
         {
             "available_languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
@@ -43,7 +43,7 @@
             "list_location":"/plaats_en_afstand",
             "list_name":"plaats en afstand",
             "list_type":"rubriek",
-            "list_version":"2.0"
+            "list_version":"1.0"
         },
         {
             "available_languages":"nederlands, frans, frans_burundi, frans_congo, somalisch",
@@ -97,7 +97,7 @@
             "list_location":"/greetings",
             "list_name":"greetings",
             "list_type":"rubriek",
-            "list_version":"2.0"
+            "list_version":"1.0"
         },
         {
             "available_languages":"engels, somalisch, kroatisch",
@@ -147,20 +147,11 @@
         {
           "available_languages":"#",
           "id":"17.0",
-          "list_file_name":"test_spiekbrief",
-          "list_location":"/test_spiekbrief",
-          "list_name":"Test Spiekbrief",
+          "list_file_name":"html_tags",
+          "list_location":"/html_tags",
+          "list_name":"HTML 5 tags",
           "list_type":"spiekbrief",
           "list_version":"1.0"
         },
-        {
-          "available_languages":"#",
-          "id":"18.0",
-          "list_file_name":"test_spiekbrief2",
-          "list_location":"/test_spiekbrief2",
-          "list_name":"Test Spiekbrief 2",
-          "list_type":"spiekbrief",
-          "list_version":"1.0"
-        }
     ]
 }

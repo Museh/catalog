@@ -1,52 +1,52 @@
 ﻿{
     "carnaval_plaatsnamen": [
         {
-            "id": "1",
+            "id": 1,
             "Stad": "Aalst",
             "Carnavalsnaam": "Ballegat"
         },
         {
-            "id": "2",
+            "id": 2,
             "Stad": "Aardenburg",
             "Carnavalsnaam": "'t Uulehat"
         },
         {
-            "id": "3",
+            "id": 3,
             "Stad": "Aarle-Rixtel",
             "Carnavalsnaam": "Ganzegat"
         },
         {
-            "id": "4",
+            "id": 4,
             "Stad": "Achterveld",
             "Carnavalsnaam": "Puupenkoppenland"
         },
         {
-            "id": "5",
+            "id": 5,
             "Stad": "Achtmaal",
             "Carnavalsnaam": "Goudpoeperslaand"
         },
         {
-            "id": "6",
+            "id": 6,
             "Stad": "Aerdt",
             "Carnavalsnaam": "Spreeuwendurp"
         },
         {
-            "id": "7",
+            "id": 7,
             "Stad": "Afferden",
             "Carnavalsnaam": "Knotsenburg"
         },
         {
-            "id": "8",
+            "id": 8,
             "Stad": "Albergen",
             "Carnavalsnaam": "Bökkenlaand"
         },
         {
-            "id": "9",
+            "id": 9,
             "Stad": "Alem",
             "Carnavalsnaam": "Spreeuwendurp"
         },
         {
-            "id": "10",
+            "id": 10,
             "Stad": "Alphen",
             "Carnavalsnaam": "'t Plèkgat"
         }

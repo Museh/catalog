@@ -1,0 +1,104 @@
+{
+    "html_tags":[
+        {
+           "id": 1,
+           "tag": "<!-- --->",
+           "description": "Defines a comment"
+         },
+         {
+           "id": 2,
+           "tag": "<!DOCTYPE>",
+           "description": "Defines the document type"
+         },
+         {
+           "id": 3,
+           "tag": "<a>",
+           "description": "Defines a hyperlink"
+         },
+         {
+           "id": 4,
+           "tag": "<abbr>",
+           "description": "Defines an abbreviation or an acronym"
+         },
+         {
+           "id": 5,
+           "tag": "<address>",
+           "description": "Defines contact information for the author/owner of a document"
+         },
+         {
+           "id": 6,
+           "tag": "<area>",
+           "description": "Defines an area inside an image-map"
+         },
+         {
+           "id": 7,
+           "tag": "<article>",
+           "description": "Defines an article"
+         },
+         {
+           "id": 8,
+           "tag": "<aside>",
+           "description": "Defines content aside from the page content"
+         },
+         {
+           "id": 9,
+           "tag": "<audio>",
+           "description": "Defines sound context"
+         },
+         {
+           "id": 10,
+           "tag": "<b>",
+           "description": "Defines bold text"
+         },
+         {
+           "id": 11,
+           "tag": "<base>",
+           "description": "Specifies the base URL/target for all relative URLs in a document"
+         },
+         {
+           "id": 12,
+           "tag": "<bdi>",
+           "description": "Isolates a part of text that might be formatted in a different direction from other text outside it"
+         },
+         {
+           "id": 13,
+           "tag": "<bdo>",
+           "description": "Overrides the current text direction"
+         },
+         {
+           "id": 14,
+           "tag": "<blockquote>",
+           "description": "Defines a section that is quoted from another source"
+         },
+         {
+           "id": 15,
+           "tag": "<body>",
+           "description": "Defines the document's body"
+         },
+         {
+           "id": 16,
+           "tag": "<br>",
+           "description": "Defines a single line break"
+         },
+         {
+           "id": 17,
+           "tag": "<button>",
+           "description": "Defines a clickable button"
+         },
+         {
+           "id": 18,
+           "tag": "<canvas>",
+           "description": "Used to draw graphics, on the fly, via scripting (usually JavaScript)"
+         },
+         {
+           "id": 19,
+           "tag": "<caption>",
+           "description": "Defines a table caption"
+         },
+         {
+           "id": 20,
+           "tag": "Test update 2",
+           "description": "Dit is versie 2"
+         }
+    ]
+}

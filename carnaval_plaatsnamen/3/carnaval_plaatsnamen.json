@@ -1,54 +1,49 @@
-﻿{
-    "carnaval_plaatsnamen": [
+{
+    "carnaval_plaatsnamen":[
         {
-            "id": 1,
-            "Stad": "Aalst",
-            "Carnavalsnaam": "Ballegat"
+            "id":"1.0",
+            "stad":"aalst",
+            "carnavalsnaam":"ballegat"
         },
         {
-            "id": 2,
-            "Stad": "Aardenburg",
-            "Carnavalsnaam": "'t Uulehat"
+            "id":"2.0",
+            "stad":"aardenburg",
+            "carnavalsnaam":"'t uulehat"
         },
         {
-            "id": 3,
-            "Stad": "Aarle-Rixtel",
-            "Carnavalsnaam": "Ganzegat"
+            "id":"3.0",
+            "stad":"aarle-rixtel",
+            "carnavalsnaam":"ganzegat"
         },
         {
-            "id": 4,
-            "Stad": "Achterveld",
-            "Carnavalsnaam": "Puupenkoppenland"
+            "id":"4.0",
+            "stad":"achterveld",
+            "carnavalsnaam":"puupenkoppenland"
         },
         {
-            "id": 5,
-            "Stad": "Achtmaal",
-            "Carnavalsnaam": "Goudpoeperslaand"
+            "id":"5.0",
+            "stad":"achtmaal",
+            "carnavalsnaam":"goudpoeperslaand"
         },
         {
-            "id": 6,
-            "Stad": "Aerdt",
-            "Carnavalsnaam": "Spreeuwendurp"
+            "id":"6.0",
+            "stad":"aerdt",
+            "carnavalsnaam":"spreeuwendurp"
         },
         {
-            "id": 7,
-            "Stad": "Afferden",
-            "Carnavalsnaam": "Knotsenburg"
+            "id":"7.0",
+            "stad":"afferden",
+            "carnavalsnaam":"knotsenburg"
         },
         {
-            "id": 8,
-            "Stad": "Albergen",
-            "Carnavalsnaam": "Bökkenlaand"
+            "id":"8.0",
+            "stad":"albergen",
+            "carnavalsnaam":"bökkenlaand"
         },
         {
-            "id": 9,
-            "Stad": "Alem",
-            "Carnavalsnaam": "Spreeuwendurp"
-        },
-        {
-            "id": 10,
-            "Stad": "Alphen",
-            "Carnavalsnaam": "'t Plèkgat"
+            "id":"9.0",
+            "stad":"alem",
+            "carnavalsnaam":"spreeuwendurp"
         }
     ]
 }

@@ -1,4 +1,6 @@
-[
+{
+
+"carnaval_plaatsnamen": [
  {
    "id": 1,
    "Stad": "Aalst",
@@ -3035,3 +3037,4 @@
    "Carnavalsnaam": "Sassendonk"
  }
 ]
+}

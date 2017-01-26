@@ -1,49 +1,3038 @@
-{
-    "carnaval_plaatsnamen":[
+﻿{
+    "carnaval_plaatsnamen": [
         {
-            "id":"1.0",
-            "stad":"aalst",
-            "carnavalsnaam":"ballegat"
+            "id": "1.0",
+            "Stad": "Aalst",
+            "Carnavalsnaam": "Ballegat"
         },
         {
-            "id":"2.0",
-            "stad":"aardenburg",
-            "carnavalsnaam":"'t uulehat"
+            "id": "2.0",
+            "Stad": "Aardenburg",
+            "Carnavalsnaam": "'t Uulehat"
         },
         {
-            "id":"3.0",
-            "stad":"aarle-rixtel",
-            "carnavalsnaam":"ganzegat"
+            "id": "3.0",
+            "Stad": "Aarle-Rixtel",
+            "Carnavalsnaam": "Ganzegat"
         },
         {
-            "id":"4.0",
-            "stad":"achterveld",
-            "carnavalsnaam":"puupenkoppenland"
+            "id": "4.0",
+            "Stad": "Achterveld",
+            "Carnavalsnaam": "Puupenkoppenland"
         },
         {
-            "id":"5.0",
-            "stad":"achtmaal",
-            "carnavalsnaam":"goudpoeperslaand"
+            "id": "5.0",
+            "Stad": "Achtmaal",
+            "Carnavalsnaam": "Goudpoeperslaand"
         },
         {
-            "id":"6.0",
-            "stad":"aerdt",
-            "carnavalsnaam":"spreeuwendurp"
+            "id": "6.0",
+            "Stad": "Aerdt",
+            "Carnavalsnaam": "Spreeuwendurp"
         },
         {
-            "id":"7.0",
-            "stad":"afferden",
-            "carnavalsnaam":"knotsenburg"
+            "id": "7.0",
+            "Stad": "Afferden",
+            "Carnavalsnaam": "Knotsenburg"
         },
         {
-            "id":"8.0",
-            "stad":"albergen",
-            "carnavalsnaam":"bökkenlaand"
+            "id": "8.0",
+            "Stad": "Albergen",
+            "Carnavalsnaam": "Bökkenlaand"
         },
         {
-            "id":"9.0",
-            "stad":"alem",
-            "carnavalsnaam":"spreeuwendurp"
+            "id": "9.0",
+            "Stad": "Alem",
+            "Carnavalsnaam": "Spreeuwendurp"
+        },
+        {
+            "id": "10.0",
+            "Stad": "Alphen",
+            "Carnavalsnaam": "'t Plèkgat"
+        },
+        {
+            "id": "11.0",
+            "Stad": "Alphen",
+            "Carnavalsnaam": "Struivenlaand"
+        },
+        {
+            "id": "12.0",
+            "Stad": "Alphen aan den Rijn",
+            "Carnavalsnaam": "Castellum"
+        },
+        {
+            "id": "13.0",
+            "Stad": "Alverna",
+            "Carnavalsnaam": "'t Vennegat"
+        },
+        {
+            "id": "14.0",
+            "Stad": "America",
+            "Carnavalsnaam": "Turftreiersriek"
+        },
+        {
+            "id": "15.0",
+            "Stad": "Amersfoort",
+            "Carnavalsnaam": "Trekkersgat"
+        },
+        {
+            "id": "16.0",
+            "Stad": "Ammerzoden",
+            "Carnavalsnaam": "Malse Arckeldurp"
+        },
+        {
+            "id": "17.0",
+            "Stad": "Angeren",
+            "Carnavalsnaam": "Keujesgat"
+        },
+        {
+            "id": "18.0",
+            "Stad": "Ankeveen",
+            "Carnavalsnaam": "Schuimlikkerveen"
+        },
+        {
+            "id": "19.0",
+            "Stad": "Apeldoorn",
+            "Carnavalsnaam": "Knienenburg"
+        },
+        {
+            "id": "20.0",
+            "Stad": "Arcen",
+            "Carnavalsnaam": "Keieschiétersriék"
+        },
+        {
+            "id": "21.0",
+            "Stad": "Assen",
+            "Carnavalsnaam": "Pitlo"
+        },
+        {
+            "id": "22.0",
+            "Stad": "Asten",
+            "Carnavalsnaam": "Klotland"
+        },
+        {
+            "id": "23.0",
+            "Stad": "Azewijn",
+            "Carnavalsnaam": "Vossendarp"
+        },
+        {
+            "id": "24.0",
+            "Stad": "Baarle-Nassau",
+            "Carnavalsnaam": "Smokkelgat"
+        },
+        {
+            "id": "25.0",
+            "Stad": "Baarlo",
+            "Carnavalsnaam": "Kôôke-riék"
+        },
+        {
+            "id": "26.0",
+            "Stad": "Baarschot",
+            "Carnavalsnaam": "Knopspeldjesrijk"
+        },
+        {
+            "id": "27.0",
+            "Stad": "Baexem",
+            "Carnavalsnaam": "Plekploasterland"
+        },
+        {
+            "id": "28.0",
+            "Stad": "Bakel",
+            "Carnavalsnaam": "Pierewaaiersrijk"
+        },
+        {
+            "id": "29.0",
+            "Stad": "Bakhuizen",
+            "Carnavalsnaam": "Bokkedam"
+        },
+        {
+            "id": "30.0",
+            "Stad": "Balgoij",
+            "Carnavalsnaam": "Moaslandersrijk"
+        },
+        {
+            "id": "31.0",
+            "Stad": "Barger-Compascuum",
+            "Carnavalsnaam": "Stiekelstad"
+        },
+        {
+            "id": "32.0",
+            "Stad": "Barger-Oosterveld",
+            "Carnavalsnaam": "Flintenstad"
+        },
+        {
+            "id": "33.0",
+            "Stad": "Barneveld",
+            "Carnavalsnaam": "Kiependaarp"
+        },
+        {
+            "id": "34.0",
+            "Stad": "Batenburg",
+            "Carnavalsnaam": "Pompestad"
+        },
+        {
+            "id": "35.0",
+            "Stad": "Bathmen",
+            "Carnavalsnaam": "Pompersgat"
+        },
+        {
+            "id": "36.0",
+            "Stad": "Bavel",
+            "Carnavalsnaam": "Baviaonenland"
+        },
+        {
+            "id": "37.0",
+            "Stad": "Beegden",
+            "Carnavalsnaam": "Jokerriek"
+        },
+        {
+            "id": "38.0",
+            "Stad": "Beek (Ubbergen)",
+            "Carnavalsnaam": "De Heksenketel"
+        },
+        {
+            "id": "39.0",
+            "Stad": "Beek en Donk",
+            "Carnavalsnaam": "Ganzendonck"
+        },
+        {
+            "id": "40.0",
+            "Stad": "Beers",
+            "Carnavalsnaam": "Bokkerijersriek"
+        },
+        {
+            "id": "41.0",
+            "Stad": "Beesel",
+            "Carnavalsnaam": "Drakeriék"
+        },
+        {
+            "id": "42.0",
+            "Stad": "Belfeld",
+            "Carnavalsnaam": "Belhamelriëk"
+        },
+        {
+            "id": "43.0",
+            "Stad": "Bemmel",
+            "Carnavalsnaam": "'t Kaokelnest"
+        },
+        {
+            "id": "44.0",
+            "Stad": "Beneden-Leeuwen",
+            "Carnavalsnaam": "Braoiersrijk"
+        },
+        {
+            "id": "45.0",
+            "Stad": "Bergeijk 't Hof",
+            "Carnavalsnaam": "'t Teutengat"
+        },
+        {
+            "id": "46.0",
+            "Stad": "Bergeijk 't Loo",
+            "Carnavalsnaam": "t Rommegat "
+        },
+        {
+            "id": "47.0",
+            "Stad": "Bergeijk Weebosch",
+            "Carnavalsnaam": "'t Urnegat"
+        },
+        {
+            "id": "48.0",
+            "Stad": "Berg en Dal",
+            "Carnavalsnaam": "Duufelshemel"
+        },
+        {
+            "id": "49.0",
+            "Stad": "Bergen op Zoom",
+            "Carnavalsnaam": "Krabbegat"
+        },
+        {
+            "id": "50.0",
+            "Stad": "Bergharen",
+            "Carnavalsnaam": "Wurmensoppersrijk"
+        },
+        {
+            "id": "51.0",
+            "Stad": "Berghem",
+            "Carnavalsnaam": "Knollenrijk"
+        },
+        {
+            "id": "52.0",
+            "Stad": "Berkel-Enschot",
+            "Carnavalsnaam": "Knollevretersgat"
+        },
+        {
+            "id": "53.0",
+            "Stad": "Berkel en Rodenrijs",
+            "Carnavalsnaam": "Peendorp"
+        },
+        {
+            "id": "54.0",
+            "Stad": "Berlicum",
+            "Carnavalsnaam": "Dun Birrekoal"
+        },
+        {
+            "id": "55.0",
+            "Stad": "Best",
+            "Carnavalsnaam": "Klompengat"
+        },
+        {
+            "id": "56.0",
+            "Stad": "Beugen",
+            "Carnavalsnaam": "Verkeskop"
+        },
+        {
+            "id": "57.0",
+            "Stad": "Beuningen",
+            "Carnavalsnaam": "Eikelenburg"
+        },
+        {
+            "id": "58.0",
+            "Stad": "Biest-Houtakker",
+            "Carnavalsnaam": "Pinnekleuversgat"
+        },
+        {
+            "id": "59.0",
+            "Stad": "Biezenmortel",
+            "Carnavalsnaam": "Kleuvendurp"
+        },
+        {
+            "id": "60.0",
+            "Stad": "Bladel",
+            "Carnavalsnaam": "Muggehol of Muggeziftersrijk"
+        },
+        {
+            "id": "61.0",
+            "Stad": "Blauwhuis",
+            "Carnavalsnaam": "Fyfkesryk"
+        },
+        {
+            "id": "62.0",
+            "Stad": "Blerick",
+            "Carnavalsnaam": "Wortelepinneriek"
+        },
+        {
+            "id": "63.0",
+            "Stad": "Boekel",
+            "Carnavalsnaam": "Knöllekesland"
+        },
+        {
+            "id": "64.0",
+            "Stad": "Boekend",
+            "Carnavalsnaam": "Worteleschrabbersriek"
+        },
+        {
+            "id": "65.0",
+            "Stad": "Boerdonk",
+            "Carnavalsnaam": "Zandhazenrijk"
+        },
+        {
+            "id": "66.0",
+            "Stad": "Borkel en Schaft",
+            "Carnavalsnaam": "Mulkgat"
+        },
+        {
+            "id": "67.0",
+            "Stad": "Borne",
+            "Carnavalsnaam": "Melbuul'ndorp "
+        },
+        {
+            "id": "68.0",
+            "Stad": "Bornerbroek",
+            "Carnavalsnaam": "Knoll'nbrook"
+        },
+        {
+            "id": "69.0",
+            "Stad": "Boskamp",
+            "Carnavalsnaam": "Toetlipp'ndarp"
+        },
+        {
+            "id": "70.0",
+            "Stad": "Boskoop",
+            "Carnavalsnaam": "Kwakveen"
+        },
+        {
+            "id": "71.0",
+            "Stad": "Bosschenhoofd",
+            "Carnavalsnaam": "Smoorfrêterslaand"
+        },
+        {
+            "id": "72.0",
+            "Stad": "Boven-Leeuwen",
+            "Carnavalsnaam": "Roefelrijk"
+        },
+        {
+            "id": "73.0",
+            "Stad": "Boxmeer",
+            "Carnavalsnaam": "Geitenbok"
+        },
+        {
+            "id": "74.0",
+            "Stad": "Boxtel",
+            "Carnavalsnaam": "Eendengat"
+        },
+        {
+            "id": "75.0",
+            "Stad": "Braamt",
+            "Carnavalsnaam": "Nottedarp"
+        },
+        {
+            "id": "76.0",
+            "Stad": "Breda",
+            "Carnavalsnaam": "Kielegat"
+        },
+        {
+            "id": "77.0",
+            "Stad": "Budel",
+            "Carnavalsnaam": "Bokkenriek"
+        },
+        {
+            "id": "78.0",
+            "Stad": "Budel-Dorplein",
+            "Carnavalsnaam": "Heiknuuterrijk"
+        },
+        {
+            "id": "79.0",
+            "Stad": "Budel-Schoot",
+            "Carnavalsnaam": "Toeterland"
+        },
+        {
+            "id": "80.0",
+            "Stad": "Buggenum",
+            "Carnavalsnaam": "Halve gare riek"
+        },
+        {
+            "id": "81.0",
+            "Stad": "Bunnik",
+            "Carnavalsnaam": "Kikkerloo"
+        },
+        {
+            "id": "82.0",
+            "Stad": "Bussum",
+            "Carnavalsnaam": "Erwtenrijk"
+        },
+        {
+            "id": "83.0",
+            "Stad": "Capelle",
+            "Carnavalsnaam": "Cuppelsgat"
+        },
+        {
+            "id": "84.0",
+            "Stad": "Casteren",
+            "Carnavalsnaam": "Bollemeppersgat"
+        },
+        {
+            "id": "85.0",
+            "Stad": "Castricum",
+            "Carnavalsnaam": "Pieperduin"
+        },
+        {
+            "id": "86.0",
+            "Stad": "Chaam",
+            "Carnavalsnaam": "Bonenpikkerslaand"
+        },
+        {
+            "id": "87.0",
+            "Stad": "Clinge",
+            "Carnavalsnaam": "Kriekedorp"
+        },
+        {
+            "id": "88.0",
+            "Stad": "Colmschate",
+            "Carnavalsnaam": "Perskoelersgat"
+        },
+        {
+            "id": "89.0",
+            "Stad": "Cothen",
+            "Carnavalsnaam": "Brienkneuterdorp"
+        },
+        {
+            "id": "90.0",
+            "Stad": "Cromvoirt",
+            "Carnavalsnaam": "Kneutergat"
+        },
+        {
+            "id": "91.0",
+            "Stad": "Cuijk",
+            "Carnavalsnaam": "Nölersriek"
+        },
+        {
+            "id": "92.0",
+            "Stad": "Culemborg",
+            "Carnavalsnaam": "Papklokkendam"
+        },
+        {
+            "id": "93.0",
+            "Stad": "Dedemsvaart",
+            "Carnavalsnaam": "Kloetendonk"
+        },
+        {
+            "id": "94.0",
+            "Stad": "Deest",
+            "Carnavalsnaam": "Het Golvenrijk"
+        },
+        {
+            "id": "95.0",
+            "Stad": "De Heen",
+            "Carnavalsnaam": "Strienedurpke"
+        },
+        {
+            "id": "96.0",
+            "Stad": "Delden",
+            "Carnavalsnaam": "Kwekwestad"
+        },
+        {
+            "id": "97.0",
+            "Stad": "Delft",
+            "Carnavalsnaam": "Kabbelgat"
+        },
+        {
+            "id": "98.0",
+            "Stad": "Delfzijl",
+            "Carnavalsnaam": "Krabbersiel"
+        },
+        {
+            "id": "99.0",
+            "Stad": "De Lier",
+            "Carnavalsnaam": "'t Bukkersgat"
+        },
+        {
+            "id": "100.0",
+            "Stad": "De Moer",
+            "Carnavalsnaam": "Moerbiënlaand"
+        },
+        {
+            "id": "101.0",
+            "Stad": "De Mortel",
+            "Carnavalsnaam": "Krulstarteland"
+        },
+        {
+            "id": "102.0",
+            "Stad": "De Zilk",
+            "Carnavalsnaam": "Duinknijnenrijk"
+        },
+        {
+            "id": "103.0",
+            "Stad": "Den Dungen",
+            "Carnavalsnaam": "Krabberdonk"
+        },
+        {
+            "id": "104.0",
+            "Stad": "Denekamp",
+            "Carnavalsnaam": "Köttelpeer'ndoarp"
+        },
+        {
+            "id": "105.0",
+            "Stad": "Den Haag",
+            "Carnavalsnaam": "Kreesiedentie"
+        },
+        {
+            "id": "106.0",
+            "Stad": "Den Helder",
+            "Carnavalsnaam": "Waaienburg"
+        },
+        {
+            "id": "107.0",
+            "Stad": "Den Hout",
+            "Carnavalsnaam": "Kluivenduikersrijk"
+        },
+        {
+            "id": "108.0",
+            "Stad": "De Rips",
+            "Carnavalsnaam": "Streupersrijk"
+        },
+        {
+            "id": "109.0",
+            "Stad": "Deurne",
+            "Carnavalsnaam": "Peelstrekelrijk"
+        },
+        {
+            "id": "110.0",
+            "Stad": "Deurningen",
+            "Carnavalsnaam": "Nettelkörnkesnust"
+        },
+        {
+            "id": "111.0",
+            "Stad": "Deventer",
+            "Carnavalsnaam": "Stokvissengat"
+        },
+        {
+            "id": "112.0",
+            "Stad": "Didam",
+            "Carnavalsnaam": "Diedeldam"
+        },
+        {
+            "id": "113.0",
+            "Stad": "Dieren",
+            "Carnavalsnaam": "Zwieren"
+        },
+        {
+            "id": "114.0",
+            "Stad": "Diessen",
+            "Carnavalsnaam": "Stopnaoldenrijk"
+        },
+        {
+            "id": "115.0",
+            "Stad": "Dinteloord",
+            "Carnavalsnaam": "Peejlòòfdurp"
+        },
+        {
+            "id": "116.0",
+            "Stad": "Doenrade",
+            "Carnavalsnaam": "Gruuëtsje Gekke Rieëk"
+        },
+        {
+            "id": "117.0",
+            "Stad": "Doesburg",
+            "Carnavalsnaam": "Mosterdgat"
+        },
+        {
+            "id": "118.0",
+            "Stad": "Doetinchem",
+            "Carnavalsnaam": "Leutekum"
+        },
+        {
+            "id": "119.0",
+            "Stad": "Dommelen",
+            "Carnavalsnaam": "Brouwersgat"
+        },
+        {
+            "id": "120.0",
+            "Stad": "Dongen",
+            "Carnavalsnaam": "Peeënrijk"
+        },
+        {
+            "id": "121.0",
+            "Stad": "Doornenburg",
+            "Carnavalsnaam": "'t Waotergat"
+        },
+        {
+            "id": "122.0",
+            "Stad": "Dordrecht",
+            "Carnavalsnaam": "Ooi- en Ramsgat"
+        },
+        {
+            "id": "123.0",
+            "Stad": "Dorst",
+            "Carnavalsnaam": "Kattegat"
+        },
+        {
+            "id": "124.0",
+            "Stad": "Dreumel",
+            "Carnavalsnaam": "Schutlakenrijk"
+        },
+        {
+            "id": "125.0",
+            "Stad": "Driebergen-Rijsenburg",
+            "Carnavalsnaam": "Sparrenrijck"
+        },
+        {
+            "id": "126.0",
+            "Stad": "Driel",
+            "Carnavalsnaam": "Uulenes"
+        },
+        {
+            "id": "127.0",
+            "Stad": "Dronrijp",
+            "Carnavalsnaam": "Oksedorp"
+        },
+        {
+            "id": "128.0",
+            "Stad": "Drunen",
+            "Carnavalsnaam": "Dwergonië"
+        },
+        {
+            "id": "129.0",
+            "Stad": "Druten",
+            "Carnavalsnaam": "Bokkenrijk"
+        },
+        {
+            "id": "130.0",
+            "Stad": "Duizel",
+            "Carnavalsnaam": "Zwetsland"
+        },
+        {
+            "id": "131.0",
+            "Stad": "Dussen",
+            "Carnavalsnaam": "Klaiendam"
+        },
+        {
+            "id": "132.0",
+            "Stad": "Echt",
+            "Carnavalsnaam": "Aesterriek"
+        },
+        {
+            "id": "133.0",
+            "Stad": "Edam",
+            "Carnavalsnaam": "Sufbrugge"
+        },
+        {
+            "id": "134.0",
+            "Stad": "Ede",
+            "Carnavalsnaam": "Heidegat"
+        },
+        {
+            "id": "135.0",
+            "Stad": "Eerbeek",
+            "Carnavalsnaam": "Dwarsliggerdorp"
+        },
+        {
+            "id": "136.0",
+            "Stad": "Eerde",
+            "Carnavalsnaam": "Oiversland"
+        },
+        {
+            "id": "137.0",
+            "Stad": "Eersel",
+            "Carnavalsnaam": "Buurtgat"
+        },
+        {
+            "id": "138.0",
+            "Stad": "Effen",
+            "Carnavalsnaam": "Kuuskesland"
+        },
+        {
+            "id": "139.0",
+            "Stad": "Egchel",
+            "Carnavalsnaam": "Kemphazeriek"
+        },
+        {
+            "id": "140.0",
+            "Stad": "Egmond aan Zee",
+            "Carnavalsnaam": "Jutterdonk"
+        },
+        {
+            "id": "141.0",
+            "Stad": "Eibergen",
+            "Carnavalsnaam": "Rott’ngat"
+        },
+        {
+            "id": "142.0",
+            "Stad": "Einighausen",
+            "Carnavalsnaam": "Smautbeulenriek"
+        },
+        {
+            "id": "143.0",
+            "Stad": "Eindhoven",
+            "Carnavalsnaam": "Lampegat"
+        },
+        {
+            "id": "144.0",
+            "Stad": "Elden (dorp en wijk in Arnhem)",
+            "Carnavalsnaam": "Meulewiekersdurp"
+        },
+        {
+            "id": "145.0",
+            "Stad": "Ell",
+            "Carnavalsnaam": "Moereriek"
+        },
+        {
+            "id": "146.0",
+            "Stad": "Elsendorp",
+            "Carnavalsnaam": "Peelvruutersrijk"
+        },
+        {
+            "id": "147.0",
+            "Stad": "Elshout",
+            "Carnavalsnaam": "Zaandhaozenlaand"
+        },
+        {
+            "id": "148.0",
+            "Stad": "Elst",
+            "Carnavalsnaam": "Döppertdurp"
+        },
+        {
+            "id": "149.0",
+            "Stad": "Emmeloord",
+            "Carnavalsnaam": "Pierenoord"
+        },
+        {
+            "id": "150.0",
+            "Stad": "Empel",
+            "Carnavalsnaam": "Slotgat"
+        },
+        {
+            "id": "151.0",
+            "Stad": "Engelen",
+            "Carnavalsnaam": "Terpersdurp"
+        },
+        {
+            "id": "152.0",
+            "Stad": "Enkhuizen",
+            "Carnavalsnaam": "Haringdonk"
+        },
+        {
+            "id": "153.0",
+            "Stad": "Ens",
+            "Carnavalsnaam": "Kleiduikersland"
+        },
+        {
+            "id": "154.0",
+            "Stad": "Enschede",
+            "Carnavalsnaam": "Krekkelstad"
+        },
+        {
+            "id": "155.0",
+            "Stad": "Enter",
+            "Carnavalsnaam": "Boorkötteldorp"
+        },
+        {
+            "id": "156.0",
+            "Stad": "Epe",
+            "Carnavalsnaam": "Pompersdarp"
+        },
+        {
+            "id": "157.0",
+            "Stad": "Erp",
+            "Carnavalsnaam": "Empeldonk"
+        },
+        {
+            "id": "158.0",
+            "Stad": "Esbeek",
+            "Carnavalsnaam": "Haaikneuterrijk"
+        },
+        {
+            "id": "159.0",
+            "Stad": "Esch",
+            "Carnavalsnaam": "Oggelvorsenpoel"
+        },
+        {
+            "id": "160.0",
+            "Stad": "Escharen",
+            "Carnavalsnaam": "De Erpelkuul"
+        },
+        {
+            "id": "161.0",
+            "Stad": "Essen",
+            "Carnavalsnaam": "Ossenkoppenstad"
+        },
+        {
+            "id": "162.0",
+            "Stad": "Etten (Etten-Leur)",
+            "Carnavalsnaam": "Stijlorenrijk"
+        },
+        {
+            "id": "163.0",
+            "Stad": "Evertsoord",
+            "Carnavalsnaam": "Pieëlhazeriek"
+        },
+        {
+            "id": "164.0",
+            "Stad": "Ewijk",
+            "Carnavalsnaam": "Zottendael"
+        },
+        {
+            "id": "165.0",
+            "Stad": "Fijnaart",
+            "Carnavalsnaam": "'t Kleigat"
+        },
+        {
+            "id": "166.0",
+            "Stad": "Gaanderen",
+            "Carnavalsnaam": "Bultendarp"
+        },
+        {
+            "id": "167.0",
+            "Stad": "Galder",
+            "Carnavalsnaam": "Maerkrattenland"
+        },
+        {
+            "id": "168.0",
+            "Stad": "Gassel",
+            "Carnavalsnaam": "Het Ezelrijk"
+        },
+        {
+            "id": "169.0",
+            "Stad": "Gasselte",
+            "Carnavalsnaam": "Meul'ndob"
+        },
+        {
+            "id": "170.0",
+            "Stad": "Gastel",
+            "Carnavalsnaam": "Pintewippersrijk"
+        },
+        {
+            "id": "171.0",
+            "Stad": "Geertruidenberg",
+            "Carnavalsnaam": "Potteschijtersland"
+        },
+        {
+            "id": "172.0",
+            "Stad": "Geesteren",
+            "Carnavalsnaam": "Papsleefndorp"
+        },
+        {
+            "id": "173.0",
+            "Stad": "Geffen",
+            "Carnavalsnaam": "Rottenrijk"
+        },
+        {
+            "id": "174.0",
+            "Stad": "Geldrop",
+            "Carnavalsnaam": "Lappegat"
+        },
+        {
+            "id": "175.0",
+            "Stad": "Geleen",
+            "Carnavalsnaam": "Waereldsjtad"
+        },
+        {
+            "id": "176.0",
+            "Stad": "Gemert",
+            "Carnavalsnaam": "Waeverstadt"
+        },
+        {
+            "id": "177.0",
+            "Stad": "Gemonde",
+            "Carnavalsnaam": "Mullukzuipertjesland"
+        },
+        {
+            "id": "178.0",
+            "Stad": "Gerwen",
+            "Carnavalsnaam": "Narregat"
+        },
+        {
+            "id": "179.0",
+            "Stad": "Giesbeek",
+            "Carnavalsnaam": "'t Knorre Dörpke"
+        },
+        {
+            "id": "180.0",
+            "Stad": "Gilze",
+            "Carnavalsnaam": "Dringersgat"
+        },
+        {
+            "id": "181.0",
+            "Stad": "Goes",
+            "Carnavalsnaam": "Hanzehat"
+        },
+        {
+            "id": "182.0",
+            "Stad": "Goirle",
+            "Carnavalsnaam": "Ballefruttersgat"
+        },
+        {
+            "id": "183.0",
+            "Stad": "Gorinchem",
+            "Carnavalsnaam": "Bliekenstad"
+        },
+        {
+            "id": "184.0",
+            "Stad": "Gorssel",
+            "Carnavalsnaam": "Kakkersgat"
+        },
+        {
+            "id": "185.0",
+            "Stad": "Gouda",
+            "Carnavalsnaam": "Pijpenburg"
+        },
+        {
+            "id": "186.0",
+            "Stad": "t Goy",
+            "Carnavalsnaam": "Laetste Stuyver Dorp"
+        },
+        {
+            "id": "187.0",
+            "Stad": "Graauw",
+            "Carnavalsnaam": "Djerkenland"
+        },
+        {
+            "id": "188.0",
+            "Stad": "Grave",
+            "Carnavalsnaam": "Pothuusburg"
+        },
+        {
+            "id": "189.0",
+            "Stad": "Griendtsveen",
+            "Carnavalsnaam": "Klotbultjesriek"
+        },
+        {
+            "id": "190.0",
+            "Stad": "Groenlo",
+            "Carnavalsnaam": "Grolse Wanten Stad"
+        },
+        {
+            "id": "191.0",
+            "Stad": "Groesbeek",
+            "Carnavalsnaam": "Keulen van Gelderland"
+        },
+        {
+            "id": "192.0",
+            "Stad": "Groessen",
+            "Carnavalsnaam": "Deurdreiersdarp"
+        },
+        {
+            "id": "193.0",
+            "Stad": "Grubbenvorst",
+            "Carnavalsnaam": "Plaggeriék"
+        },
+        {
+            "id": "194.0",
+            "Stad": "Haaksbergen",
+            "Carnavalsnaam": "'t Asschedorp"
+        },
+        {
+            "id": "195.0",
+            "Stad": "Haalderen",
+            "Carnavalsnaam": "'t Baggergat"
+        },
+        {
+            "id": "196.0",
+            "Stad": "Haaren",
+            "Carnavalsnaam": "Struivendurp"
+        },
+        {
+            "id": "197.0",
+            "Stad": "Haarlem",
+            "Carnavalsnaam": "Muggendonk"
+        },
+        {
+            "id": "198.0",
+            "Stad": "Haarsteeg",
+            "Carnavalsnaam": "Haorendam"
+        },
+        {
+            "id": "199.0",
+            "Stad": "Haelen",
+            "Carnavalsnaam": "t Vreigelriek"
+        },
+        {
+            "id": "200.0",
+            "Stad": "Haghorst",
+            "Carnavalsnaam": "Durdauwersgat"
+        },
+        {
+            "id": "201.0",
+            "Stad": "Handel",
+            "Carnavalsnaam": "Bergkneuterrijk"
+        },
+        {
+            "id": "202.0",
+            "Stad": "Hank",
+            "Carnavalsnaam": "Knusterooierslaand"
+        },
+        {
+            "id": "203.0",
+            "Stad": "Hapert",
+            "Carnavalsnaam": "Pintewippersrijk"
+        },
+        {
+            "id": "204.0",
+            "Stad": "Haps",
+            "Carnavalsnaam": "Dun Zelfkant Hops"
+        },
+        {
+            "id": "205.0",
+            "Stad": "Harbrinkhoek",
+            "Carnavalsnaam": "Dubbelkiekersdorp"
+        },
+        {
+            "id": "206.0",
+            "Stad": "Harmelen",
+            "Carnavalsnaam": "Kwakbollenpoel"
+        },
+        {
+            "id": "207.0",
+            "Stad": "Hedel",
+            "Carnavalsnaam": "Pèèrdedurp"
+        },
+        {
+            "id": "208.0",
+            "Stad": "Heemskerk",
+            "Carnavalsnaam": "Ezelenheem"
+        },
+        {
+            "id": "209.0",
+            "Stad": "s-Heerenberg",
+            "Carnavalsnaam": "Waskuupstad"
+        },
+        {
+            "id": "210.0",
+            "Stad": "s-Heerenhoek",
+            "Carnavalsnaam": "Paerehat"
+        },
+        {
+            "id": "211.0",
+            "Stad": "Heerewaarden",
+            "Carnavalsnaam": "Paolingdurp"
+        },
+        {
+            "id": "212.0",
+            "Stad": "Heerhugowaard",
+            "Carnavalsnaam": "Knarrenburg"
+        },
+        {
+            "id": "213.0",
+            "Stad": "Heerle",
+            "Carnavalsnaam": "Puitelaand"
+        },
+        {
+            "id": "214.0",
+            "Stad": "Heerlen",
+            "Carnavalsnaam": "Sjpassemig"
+        },
+        {
+            "id": "215.0",
+            "Stad": "Heerlerheide",
+            "Carnavalsnaam": "Groeët Ghen Heij"
+        },
+        {
+            "id": "216.0",
+            "Stad": "Heesch",
+            "Carnavalsnaam": "Krullendonk"
+        },
+        {
+            "id": "217.0",
+            "Stad": "Heeswijk-Dinther",
+            "Carnavalsnaam": "Snevelbokkenland"
+        },
+        {
+            "id": "218.0",
+            "Stad": "Heeze",
+            "Carnavalsnaam": "Kraaienland"
+        },
+        {
+            "id": "219.0",
+            "Stad": "Hegelsom",
+            "Carnavalsnaam": "Tuuteriek"
+        },
+        {
+            "id": "220.0",
+            "Stad": "Heino",
+            "Carnavalsnaam": "Stoppersgat"
+        },
+        {
+            "id": "221.0",
+            "Stad": "Helenaveen",
+            "Carnavalsnaam": "Peelpluimenrijk"
+        },
+        {
+            "id": "222.0",
+            "Stad": "Helmond",
+            "Carnavalsnaam": "Kattegat"
+        },
+        {
+            "id": "223.0",
+            "Stad": "Helvoirt",
+            "Carnavalsnaam": "Keiespellersdurp"
+        },
+        {
+            "id": "224.0",
+            "Stad": "Helwijk",
+            "Carnavalsnaam": "Kiekendonk"
+        },
+        {
+            "id": "225.0",
+            "Stad": "Hendrik-Ido-Ambacht",
+            "Carnavalsnaam": "Roestrammerdam"
+        },
+        {
+            "id": "226.0",
+            "Stad": "Hengelo (Gelderland)",
+            "Carnavalsnaam": "Knollendarp"
+        },
+        {
+            "id": "227.0",
+            "Stad": "Hengelo (Overijssel)",
+            "Carnavalsnaam": "Windbuulstad"
+        },
+        {
+            "id": "228.0",
+            "Stad": "Herkenbosch",
+            "Carnavalsnaam": "Klein Kölle"
+        },
+        {
+            "id": "229.0",
+            "Stad": "s-Hertogenbosch",
+            "Carnavalsnaam": "Oeteldonk"
+        },
+        {
+            "id": "230.0",
+            "Stad": "Herpen",
+            "Carnavalsnaam": "Bônnerijk"
+        },
+        {
+            "id": "231.0",
+            "Stad": "Herpt",
+            "Carnavalsnaam": "Maoskesdam"
+        },
+        {
+            "id": "232.0",
+            "Stad": "Herveld",
+            "Carnavalsnaam": "Deurdouwerdam"
+        },
+        {
+            "id": "233.0",
+            "Stad": "Heumen",
+            "Carnavalsnaam": "Rijk der Raore Schutters"
+        },
+        {
+            "id": "234.0",
+            "Stad": "Heusden",
+            "Carnavalsnaam": "Wallepoepersland"
+        },
+        {
+            "id": "235.0",
+            "Stad": "Heusden (Asten)",
+            "Carnavalsnaam": "Peelvrujtersland"
+        },
+        {
+            "id": "236.0",
+            "Stad": "Hilvarenbeek",
+            "Carnavalsnaam": "Pezerikkengat"
+        },
+        {
+            "id": "237.0",
+            "Stad": "Hintham",
+            "Carnavalsnaam": "Oetelhoazendam"
+        },
+        {
+            "id": "238.0",
+            "Stad": "Hoeven",
+            "Carnavalsnaam": "Peejenland"
+        },
+        {
+            "id": "239.0",
+            "Stad": "Hof (Bergeijk)",
+            "Carnavalsnaam": "'t Teutengat"
+        },
+        {
+            "id": "240.0",
+            "Stad": "Holten",
+            "Carnavalsnaam": "Keunedarp"
+        },
+        {
+            "id": "241.0",
+            "Stad": "Hoofddorp",
+            "Carnavalsnaam": "Meerbonkendorp"
+        },
+        {
+            "id": "242.0",
+            "Stad": "Hoogeloon",
+            "Carnavalsnaam": "Lappelekkursland"
+        },
+        {
+            "id": "243.0",
+            "Stad": "Hooge Mierde",
+            "Carnavalsnaam": "Haoiboerenrijk"
+        },
+        {
+            "id": "244.0",
+            "Stad": "Hooge Zwaluwe",
+            "Carnavalsnaam": "Berenland"
+        },
+        {
+            "id": "245.0",
+            "Stad": "Hoogerheide",
+            "Carnavalsnaam": "Wjeeldrecht"
+        },
+        {
+            "id": "246.0",
+            "Stad": "Hoogland",
+            "Carnavalsnaam": "Zandkruuersgat"
+        },
+        {
+            "id": "247.0",
+            "Stad": "Hooglanderveen",
+            "Carnavalsnaam": "'t Turfgat"
+        },
+        {
+            "id": "248.0",
+            "Stad": "Hoorn NH",
+            "Carnavalsnaam": "Konkeldonk"
+        },
+        {
+            "id": "249.0",
+            "Stad": "Horssen",
+            "Carnavalsnaam": "Streupersrijk"
+        },
+        {
+            "id": "250.0",
+            "Stad": "Horst",
+            "Carnavalsnaam": "Dreumelrijk"
+        },
+        {
+            "id": "251.0",
+            "Stad": "Hout-Blerick",
+            "Carnavalsnaam": "Poerkerplak"
+        },
+        {
+            "id": "252.0",
+            "Stad": "Huijbergen",
+            "Carnavalsnaam": "'t Sanegat"
+        },
+        {
+            "id": "253.0",
+            "Stad": "Huissen",
+            "Carnavalsnaam": "Zwaonestad"
+        },
+        {
+            "id": "254.0",
+            "Stad": "Huizen",
+            "Carnavalsnaam": "Spietendonk"
+        },
+        {
+            "id": "255.0",
+            "Stad": "Hulst",
+            "Carnavalsnaam": "Vossestad"
+        },
+        {
+            "id": "256.0",
+            "Stad": "Hulten",
+            "Carnavalsnaam": "Krimpersgat"
+        },
+        {
+            "id": "257.0",
+            "Stad": "IJsselstein",
+            "Carnavalsnaam": "Apestad"
+        },
+        {
+            "id": "258.0",
+            "Stad": "Ittervoort",
+            "Carnavalsnaam": "Puineriek"
+        },
+        {
+            "id": "259.0",
+            "Stad": "Kaatsheuvel",
+            "Carnavalsnaam": "Turfstekerslaand"
+        },
+        {
+            "id": "260.0",
+            "Stad": "Kampen",
+            "Carnavalsnaam": "Uiendonk"
+        },
+        {
+            "id": "261.0",
+            "Stad": "Keijenborg",
+            "Carnavalsnaam": "Keidarp"
+        },
+        {
+            "id": "262.0",
+            "Stad": "Kekerdom",
+            "Carnavalsnaam": "Sjoenkelgat"
+        },
+        {
+            "id": "263.0",
+            "Stad": "Keldonk",
+            "Carnavalsnaam": "Paplippelland"
+        },
+        {
+            "id": "264.0",
+            "Stad": "Kerkdriel",
+            "Carnavalsnaam": "Teskesdurp"
+        },
+        {
+            "id": "265.0",
+            "Stad": "Kilder",
+            "Carnavalsnaam": "Dolbotterdarp"
+        },
+        {
+            "id": "266.0",
+            "Stad": "Klarenbeek",
+            "Carnavalsnaam": "Neutendarp"
+        },
+        {
+            "id": "267.0",
+            "Stad": "Kloosterburen",
+            "Carnavalsnaam": "Kronkeldörp"
+        },
+        {
+            "id": "268.0",
+            "Stad": "Kloosterzande",
+            "Carnavalsnaam": "Kloorianenland"
+        },
+        {
+            "id": "269.0",
+            "Stad": "Klundert",
+            "Carnavalsnaam": "Loerendonck"
+        },
+        {
+            "id": "270.0",
+            "Stad": "Knegsel",
+            "Carnavalsnaam": "Klein Antwerpen"
+        },
+        {
+            "id": "271.0",
+            "Stad": "Kortenhoef",
+            "Carnavalsnaam": "Turfendonk"
+        },
+        {
+            "id": "272.0",
+            "Stad": "Krimpen aan den IJssel",
+            "Carnavalsnaam": "Bulderdonk"
+        },
+        {
+            "id": "273.0",
+            "Stad": "Kronenberg",
+            "Carnavalsnaam": "Kroeënekraaneriek"
+        },
+        {
+            "id": "274.0",
+            "Stad": "Kruisstraat",
+            "Carnavalsnaam": "Waoterhazen"
+        },
+        {
+            "id": "275.0",
+            "Stad": "Kruisland",
+            "Carnavalsnaam": "Pompedurp"
+        },
+        {
+            "id": "276.0",
+            "Stad": "Kudelstaart",
+            "Carnavalsnaam": "Poelgilderdam"
+        },
+        {
+            "id": "277.0",
+            "Stad": "Kwadendamme",
+            "Carnavalsnaam": "Pikpot"
+        },
+        {
+            "id": "278.0",
+            "Stad": "Lage Mierde",
+            "Carnavalsnaam": "Peperbussenrijk"
+        },
+        {
+            "id": "279.0",
+            "Stad": "Lage Zwaluwe",
+            "Carnavalsnaam": "Biesboschrakkersrijk"
+        },
+        {
+            "id": "280.0",
+            "Stad": "Lamswaarde",
+            "Carnavalsnaam": "Lamsorenland"
+        },
+        {
+            "id": "281.0",
+            "Stad": "Landhorst",
+            "Carnavalsnaam": "Peelleuterrijk"
+        },
+        {
+            "id": "282.0",
+            "Stad": "Langenboom",
+            "Carnavalsnaam": "Verkuskopperiek"
+        },
+        {
+            "id": "283.0",
+            "Stad": "Langeraar",
+            "Carnavalsnaam": "Plassegat"
+        },
+        {
+            "id": "284.0",
+            "Stad": "Langeveen",
+            "Carnavalsnaam": "Turvendorp"
+        },
+        {
+            "id": "285.0",
+            "Stad": "Langeweg",
+            "Carnavalsnaam": "Slikgat"
+        },
+        {
+            "id": "286.0",
+            "Stad": "Leek",
+            "Carnavalsnaam": "Koetsenburg"
+        },
+        {
+            "id": "287.0",
+            "Stad": "Leende",
+            "Carnavalsnaam": "Blaosdonk"
+        },
+        {
+            "id": "288.0",
+            "Stad": "Leidschendam",
+            "Carnavalsnaam": "Zwabberdam"
+        },
+        {
+            "id": "289.0",
+            "Stad": "Lelystad",
+            "Carnavalsnaam": "Knarregat"
+        },
+        {
+            "id": "290.0",
+            "Stad": "Lemelerveld",
+            "Carnavalsnaam": "'t Sprokkeldorp"
+        },
+        {
+            "id": "291.0",
+            "Stad": "Lemselo",
+            "Carnavalsnaam": "Göttenkeurndoarp"
+        },
+        {
+            "id": "292.0",
+            "Stad": "Lent",
+            "Carnavalsnaam": "Kikkergat"
+        },
+        {
+            "id": "293.0",
+            "Stad": "Lepelstraat",
+            "Carnavalsnaam": "De Straot"
+        },
+        {
+            "id": "294.0",
+            "Stad": "Leunen",
+            "Carnavalsnaam": "'t Knollenriek"
+        },
+        {
+            "id": "295.0",
+            "Stad": "Leur (Etten-Leur)",
+            "Carnavalsnaam": "'t Zwaajgat"
+        },
+        {
+            "id": "296.0",
+            "Stad": "Leuth",
+            "Carnavalsnaam": "'t Leut(h)ergat"
+        },
+        {
+            "id": "297.0",
+            "Stad": "Lewedorp",
+            "Carnavalsnaam": "'t Kraaienist"
+        },
+        {
+            "id": "298.0",
+            "Stad": "Liempde",
+            "Carnavalsnaam": "Ploegersland"
+        },
+        {
+            "id": "299.0",
+            "Stad": "De Lier",
+            "Carnavalsnaam": "Bukkersgat"
+        },
+        {
+            "id": "300.0",
+            "Stad": "Lierop",
+            "Carnavalsnaam": "Kaauwvoetenland"
+        },
+        {
+            "id": "301.0",
+            "Stad": "Lieshout",
+            "Carnavalsnaam": "Raopersgat"
+        },
+        {
+            "id": "302.0",
+            "Stad": "Liessel",
+            "Carnavalsnaam": "Keienland"
+        },
+        {
+            "id": "303.0",
+            "Stad": "Lievelde",
+            "Carnavalsnaam": "'t Nölersdorp"
+        },
+        {
+            "id": "304.0",
+            "Stad": "Limbricht",
+            "Carnavalsnaam": "'t Doaleriek"
+        },
+        {
+            "id": "305.0",
+            "Stad": "Limmen",
+            "Carnavalsnaam": "Gorteldonk"
+        },
+        {
+            "id": "306.0",
+            "Stad": "Linden",
+            "Carnavalsnaam": "Ganzendurp"
+        },
+        {
+            "id": "307.0",
+            "Stad": "Linne",
+            "Carnavalsnaam": "'t Kwekkerteriek"
+        },
+        {
+            "id": "308.0",
+            "Stad": "Lith",
+            "Carnavalsnaam": "Veldhazenrijk"
+        },
+        {
+            "id": "309.0",
+            "Stad": "Lithoijen (+ Teefelen)",
+            "Carnavalsnaam": "Vèrekes en Woaterrattenrijk"
+        },
+        {
+            "id": "310.0",
+            "Stad": "Lobith (samen met Tolkamer)",
+            "Carnavalsnaam": "Tollusland"
+        },
+        {
+            "id": "311.0",
+            "Stad": "Loil",
+            "Carnavalsnaam": "Drammersdarp"
+        },
+        {
+            "id": "312.0",
+            "Stad": "Lomm",
+            "Carnavalsnaam": "Thiëtuiteriek"
+        },
+        {
+            "id": "313.0",
+            "Stad": "Loo (Bergeijk)",
+            "Carnavalsnaam": "'t Rommegat"
+        },
+        {
+            "id": "314.0",
+            "Stad": "Loon op Zand",
+            "Carnavalsnaam": "Theebuikenland"
+        },
+        {
+            "id": "315.0",
+            "Stad": "Loosbroek",
+            "Carnavalsnaam": "Zandkruiersland"
+        },
+        {
+            "id": "316.0",
+            "Stad": "Losser",
+            "Carnavalsnaam": "'t Aöskes dorp"
+        },
+        {
+            "id": "317.0",
+            "Stad": "Lottum",
+            "Carnavalsnaam": "Peggenland"
+        },
+        {
+            "id": "318.0",
+            "Stad": "De Lutte",
+            "Carnavalsnaam": "Tuffellaand"
+        },
+        {
+            "id": "319.0",
+            "Stad": "Luyksgestel",
+            "Carnavalsnaam": "'t Stekkegat"
+        },
+        {
+            "id": "320.0",
+            "Stad": "Maarheeze",
+            "Carnavalsnaam": "Muuzegat"
+        },
+        {
+            "id": "321.0",
+            "Stad": "Maarssen",
+            "Carnavalsnaam": "Kikkerstad"
+        },
+        {
+            "id": "322.0",
+            "Stad": "Maasbommel",
+            "Carnavalsnaam": "Bommeldurp"
+        },
+        {
+            "id": "323.0",
+            "Stad": "Maasbracht",
+            "Carnavalsnaam": "Hoonderriek"
+        },
+        {
+            "id": "324.0",
+            "Stad": "Maasbree",
+            "Carnavalsnaam": "Habberiëk"
+        },
+        {
+            "id": "325.0",
+            "Stad": "Maashees",
+            "Carnavalsnaam": "De Bliekers"
+        },
+        {
+            "id": "326.0",
+            "Stad": "Macharen",
+            "Carnavalsnaam": "Kiepenrijk"
+        },
+        {
+            "id": "327.0",
+            "Stad": "Malden",
+            "Carnavalsnaam": "Dwarsliggersrijk"
+        },
+        {
+            "id": "328.0",
+            "Stad": "Manderveen",
+            "Carnavalsnaam": "Grensdrietersdorp"
+        },
+        {
+            "id": "329.0",
+            "Stad": "Maren-Kessel",
+            "Carnavalsnaam": "Kleidonk"
+        },
+        {
+            "id": "330.0",
+            "Stad": "Mariaheide",
+            "Carnavalsnaam": "Heikrikkeldurp"
+        },
+        {
+            "id": "331.0",
+            "Stad": "Mariahout",
+            "Carnavalsnaam": "'t Heidurp"
+        },
+        {
+            "id": "332.0",
+            "Stad": "Mariënheem- Assendorp",
+            "Carnavalsnaam": "Assendorp"
+        },
+        {
+            "id": "333.0",
+            "Stad": "Marssum",
+            "Carnavalsnaam": "De Reiziger Wherhinne"
+        },
+        {
+            "id": "334.0",
+            "Stad": "Maurik",
+            "Carnavalsnaam": "Rietpikkers durp"
+        },
+        {
+            "id": "335.0",
+            "Stad": "Megchelen",
+            "Carnavalsnaam": "Timpenhol"
+        },
+        {
+            "id": "336.0",
+            "Stad": "Megen",
+            "Carnavalsnaam": "Keiendonk"
+        },
+        {
+            "id": "337.0",
+            "Stad": "Meijel",
+            "Carnavalsnaam": "Kieveloeëte Riek"
+        },
+        {
+            "id": "338.0",
+            "Stad": "Melderslo",
+            "Carnavalsnaam": "Vlaskoppenriek"
+        },
+        {
+            "id": "339.0",
+            "Stad": "Melick",
+            "Carnavalsnaam": "Markoeve Riek"
+        },
+        {
+            "id": "340.0",
+            "Stad": "Middelaar",
+            "Carnavalsnaam": "Krölstarteriek"
+        },
+        {
+            "id": "341.0",
+            "Stad": "Middelbeers",
+            "Carnavalsnaam": "Strijkersgat"
+        },
+        {
+            "id": "342.0",
+            "Stad": "Mierlo",
+            "Carnavalsnaam": "Kersepittenrijk"
+        },
+        {
+            "id": "343.0",
+            "Stad": "Mierlo-Hout",
+            "Carnavalsnaam": "'t Hout of Kluppelland"
+        },
+        {
+            "id": "344.0",
+            "Stad": "Milheeze",
+            "Carnavalsnaam": "Veenmollenrijk"
+        },
+        {
+            "id": "345.0",
+            "Stad": "Mill",
+            "Carnavalsnaam": "Germelaand"
+        },
+        {
+            "id": "346.0",
+            "Stad": "Millingen aan de Rijn",
+            "Carnavalsnaam": "Boemelgat"
+        },
+        {
+            "id": "347.0",
+            "Stad": "Milsbeek",
+            "Carnavalsnaam": "Diepenkikkerriek"
+        },
+        {
+            "id": "348.0",
+            "Stad": "Moerdijk",
+            "Carnavalsnaam": "Spieringkruiersdurp"
+        },
+        {
+            "id": "349.0",
+            "Stad": "Moergestel",
+            "Carnavalsnaam": "Pierewaaiersrijk"
+        },
+        {
+            "id": "350.0",
+            "Stad": "Moerstraten",
+            "Carnavalsnaam": "Mangelpeejenlaand"
+        },
+        {
+            "id": "351.0",
+            "Stad": "Molenhoek",
+            "Carnavalsnaam": "Kuulegat"
+        },
+        {
+            "id": "352.0",
+            "Stad": "Molenschot",
+            "Carnavalsnaam": "Papslokkersgat"
+        },
+        {
+            "id": "353.0",
+            "Stad": "Monster",
+            "Carnavalsnaam": "Munsterdonck"
+        },
+        {
+            "id": "354.0",
+            "Stad": "Montfoort",
+            "Carnavalsnaam": "Knopengein"
+        },
+        {
+            "id": "355.0",
+            "Stad": "Mook",
+            "Carnavalsnaam": "Heikneuterrijk"
+        },
+        {
+            "id": "356.0",
+            "Stad": "Munstergeleen",
+            "Carnavalsnaam": "Haverriek"
+        },
+        {
+            "id": "357.0",
+            "Stad": "Naaldwijk",
+            "Carnavalsnaam": "Naaldnarren"
+        },
+        {
+            "id": "358.0",
+            "Stad": "Naarden",
+            "Carnavalsnaam": "Wallegat"
+        },
+        {
+            "id": "359.0",
+            "Stad": "Nederasselt",
+            "Carnavalsnaam": "Wielwaoiersrijk"
+        },
+        {
+            "id": "360.0",
+            "Stad": "Nederhorst den Berg",
+            "Carnavalsnaam": "Roddeldonk"
+        },
+        {
+            "id": "361.0",
+            "Stad": "Nederweert",
+            "Carnavalsnaam": "Pinnelandj"
+        },
+        {
+            "id": "362.0",
+            "Stad": "Nederwetten",
+            "Carnavalsnaam": "Wetterland"
+        },
+        {
+            "id": "363.0",
+            "Stad": "Neede",
+            "Carnavalsnaam": "Vlearmoesdorp"
+        },
+        {
+            "id": "364.0",
+            "Stad": "Neer",
+            "Carnavalsnaam": "Kwiebusriek"
+        },
+        {
+            "id": "365.0",
+            "Stad": "Neeritter",
+            "Carnavalsnaam": "Walvaegersriek"
+        },
+        {
+            "id": "366.0",
+            "Stad": "Neerkant",
+            "Carnavalsnaam": "Ulewappersriek"
+        },
+        {
+            "id": "367.0",
+            "Stad": "Netersel",
+            "Carnavalsnaam": "'t Hupke"
+        },
+        {
+            "id": "368.0",
+            "Stad": "Nibbixwoud",
+            "Carnavalsnaam": "Krielengat"
+        },
+        {
+            "id": "369.0",
+            "Stad": "Nieuw-Heeten",
+            "Carnavalsnaam": "Hekk'ngat"
+        },
+        {
+            "id": "370.0",
+            "Stad": "Nieuwegein",
+            "Carnavalsnaam": "Kolderdonk"
+        },
+        {
+            "id": "371.0",
+            "Stad": "Nieuwkoop",
+            "Carnavalsnaam": "Platvissendorp"
+        },
+        {
+            "id": "372.0",
+            "Stad": "Nieuwkuijk",
+            "Carnavalsnaam": "Kwastenlaand"
+        },
+        {
+            "id": "373.0",
+            "Stad": "Nieuw-Vossemeer",
+            "Carnavalsnaam": "'t Vosse-ol"
+        },
+        {
+            "id": "374.0",
+            "Stad": "Nieuw-Wehl",
+            "Carnavalsnaam": "Mölledarp"
+        },
+        {
+            "id": "375.0",
+            "Stad": "Niftrik",
+            "Carnavalsnaam": "Maospruveradeel"
+        },
+        {
+            "id": "376.0",
+            "Stad": "Nijmegen",
+            "Carnavalsnaam": "Knotsenburg"
+        },
+        {
+            "id": "377.0",
+            "Stad": "Nijnsel",
+            "Carnavalsnaam": "Kneutergat"
+        },
+        {
+            "id": "378.0",
+            "Stad": "Nispen",
+            "Carnavalsnaam": "Aopelaand"
+        },
+        {
+            "id": "379.0",
+            "Stad": "Nistelrode",
+            "Carnavalsnaam": "Weversrijk"
+        },
+        {
+            "id": "380.0",
+            "Stad": "Noorden",
+            "Carnavalsnaam": "Koetendorp"
+        },
+        {
+            "id": "381.0",
+            "Stad": "Noordhoek (Moerdijk)",
+            "Carnavalsnaam": "Kantemaaiersgat"
+        },
+        {
+            "id": "382.0",
+            "Stad": "Noordwijkerhout",
+            "Carnavalsnaam": "Kokkerhout"
+        },
+        {
+            "id": "383.0",
+            "Stad": "Notendaal",
+            "Carnavalsnaam": "Zottedijke"
+        },
+        {
+            "id": "384.0",
+            "Stad": "Nuenen",
+            "Carnavalsnaam": "Dwèrsklippelgat"
+        },
+        {
+            "id": "385.0",
+            "Stad": "Nuenen-Eeneind",
+            "Carnavalsnaam": "Riefelshol"
+        },
+        {
+            "id": "386.0",
+            "Stad": "Nuland",
+            "Carnavalsnaam": "Waoterrijk"
+        },
+        {
+            "id": "387.0",
+            "Stad": "Nunhem",
+            "Carnavalsnaam": "Bosuuleriek"
+        },
+        {
+            "id": "388.0",
+            "Stad": "Nuth",
+            "Carnavalsnaam": "Nachuule"
+        },
+        {
+            "id": "389.0",
+            "Stad": "Obbicht",
+            "Carnavalsnaam": "Reuberiek"
+        },
+        {
+            "id": "390.0",
+            "Stad": "Odiliapeel -Schaopenwaesersland"
+        },
+        {
+            "id": "391.0",
+            "Stad": "Oeffelt",
+            "Carnavalsnaam": "Leemkuul"
+        },
+        {
+            "id": "392.0",
+            "Stad": "Oijen",
+            "Carnavalsnaam": "Bokkenrijk"
+        },
+        {
+            "id": "393.0",
+            "Stad": "Oirlo",
+            "Carnavalsnaam": "Spurriemökke"
+        },
+        {
+            "id": "394.0",
+            "Stad": "Oirschot",
+            "Carnavalsnaam": "Skôn Orregat"
+        },
+        {
+            "id": "395.0",
+            "Stad": "Oisterwijk",
+            "Carnavalsnaam": "Döllekesgat"
+        },
+        {
+            "id": "396.0",
+            "Stad": "Oldenzaal",
+            "Carnavalsnaam": "Boeskoolstad "
+        },
+        {
+            "id": "397.0",
+            "Stad": "Olst",
+            "Carnavalsnaam": "Heuidarp"
+        },
+        {
+            "id": "398.0",
+            "Stad": "Ommel",
+            "Carnavalsnaam": "R'Ommelpottersland"
+        },
+        {
+            "id": "399.0",
+            "Stad": "Ooij",
+            "Carnavalsnaam": "Fustendom"
+        },
+        {
+            "id": "400.0",
+            "Stad": "Oosteind",
+            "Carnavalsnaam": "Uilendonck"
+        },
+        {
+            "id": "401.0",
+            "Stad": "Oostelbeers",
+            "Carnavalsnaam": "Strijkersgat"
+        },
+        {
+            "id": "402.0",
+            "Stad": "Oosterhout NB",
+            "Carnavalsnaam": "Kaaiendonk"
+        },
+        {
+            "id": "403.0",
+            "Stad": "Oosterhout Gld",
+            "Carnavalsnaam": "Nölerhout"
+        },
+        {
+            "id": "404.0",
+            "Stad": "Ootmarsum",
+            "Carnavalsnaam": "Siepelstad"
+        },
+        {
+            "id": "405.0",
+            "Stad": "Ospel",
+            "Carnavalsnaam": "Vlikkelandj"
+        },
+        {
+            "id": "406.0",
+            "Stad": "Oss",
+            "Carnavalsnaam": "Ossekoppenrijk"
+        },
+        {
+            "id": "407.0",
+            "Stad": "Oudemolen",
+            "Carnavalsnaam": "Kleiknoestenstad"
+        },
+        {
+            "id": "408.0",
+            "Stad": "Oudenbosch",
+            "Carnavalsnaam": "Puitenol"
+        },
+        {
+            "id": "409.0",
+            "Stad": "Oudewater",
+            "Carnavalsnaam": "Uivergein"
+        },
+        {
+            "id": "410.0",
+            "Stad": "Oud Gastel",
+            "Carnavalsnaam": "Vastelaovedzottelaand"
+        },
+        {
+            "id": "411.0",
+            "Stad": "Oud-Vossemeer",
+            "Carnavalsnaam": "Grôôt Pesôôt"
+        },
+        {
+            "id": "412.0",
+            "Stad": "Overasselt",
+            "Carnavalsnaam": "LuiLekkerLand"
+        },
+        {
+            "id": "413.0",
+            "Stad": "Overdinkel",
+            "Carnavalsnaam": "Veldmoezendoarp"
+        },
+        {
+            "id": "414.0",
+            "Stad": "Overloon",
+            "Carnavalsnaam": "Huibuukeland"
+        },
+        {
+            "id": "415.0",
+            "Stad": "Panningen",
+            "Carnavalsnaam": "Kuuzeriehk"
+        },
+        {
+            "id": "416.0",
+            "Stad": "Poeldijk",
+            "Carnavalsnaam": "Leutjesdijk"
+        },
+        {
+            "id": "417.0",
+            "Stad": "Pijnacker",
+            "Carnavalsnaam": "Trappersgat"
+        },
+        {
+            "id": "418.0",
+            "Stad": "Prinsenbeek",
+            "Carnavalsnaam": "Boemeldonck"
+        },
+        {
+            "id": "419.0",
+            "Stad": "Puiflijk",
+            "Carnavalsnaam": "'t Uilengat"
+        },
+        {
+            "id": "420.0",
+            "Stad": "Purmerend",
+            "Carnavalsnaam": "Boemeldam"
+        },
+        {
+            "id": "421.0",
+            "Stad": "Putte",
+            "Carnavalsnaam": "Put en Buntland"
+        },
+        {
+            "id": "422.0",
+            "Stad": "Posterholt",
+            "Carnavalsnaam": "Biemösjeriek"
+        },
+        {
+            "id": "423.0",
+            "Stad": "Raalte",
+            "Carnavalsnaam": "Stöppelburcht"
+        },
+        {
+            "id": "424.0",
+            "Stad": "Raamsdonk",
+            "Carnavalsnaam": "D'n Haaykaant"
+        },
+        {
+            "id": "425.0",
+            "Stad": "Raamsdonksveer",
+            "Carnavalsnaam": "Faantelaand"
+        },
+        {
+            "id": "426.0",
+            "Stad": "Ravenstein",
+            "Carnavalsnaam": "Pomperstad"
+        },
+        {
+            "id": "427.0",
+            "Stad": "Reek",
+            "Carnavalsnaam": "kelerijk"
+        },
+        {
+            "id": "428.0",
+            "Stad": "Reeuwijk",
+            "Carnavalsnaam": "Reedeurp"
+        },
+        {
+            "id": "429.0",
+            "Stad": "Reusel",
+            "Carnavalsnaam": "Narrendonk"
+        },
+        {
+            "id": "430.0",
+            "Stad": "Reutum",
+            "Carnavalsnaam": "Pin'ndoarp"
+        },
+        {
+            "id": "431.0",
+            "Stad": "Reuver",
+            "Carnavalsnaam": "Windjbuujelriék"
+        },
+        {
+            "id": "432.0",
+            "Stad": "Riel",
+            "Carnavalsnaam": "Kaaiengat"
+        },
+        {
+            "id": "433.0",
+            "Stad": "Riethoven",
+            "Carnavalsnaam": "'t Bremspoersengat"
+        },
+        {
+            "id": "434.0",
+            "Stad": "Rietmolen",
+            "Carnavalsnaam": "Kwakersdorp"
+        },
+        {
+            "id": "435.0",
+            "Stad": "Rijsoord",
+            "Carnavalsnaam": "Kraaienest"
+        },
+        {
+            "id": "436.0",
+            "Stad": "Rijen",
+            "Carnavalsnaam": "Wringersgat"
+        },
+        {
+            "id": "437.0",
+            "Stad": "Rijkevoort",
+            "Carnavalsnaam": "Blubberdam"
+        },
+        {
+            "id": "438.0",
+            "Stad": "Rijsbergen",
+            "Carnavalsnaam": "Aopelaand"
+        },
+        {
+            "id": "439.0",
+            "Stad": "Rijswijk (Zuid-Holland)",
+            "Carnavalsnaam": "Knotsengat"
+        },
+        {
+            "id": "440.0",
+            "Stad": "Roermond",
+            "Carnavalsnaam": "De Sjtad van Sjtuf"
+        },
+        {
+            "id": "441.0",
+            "Stad": "Roggel",
+            "Carnavalsnaam": "Sjansemaekersriek"
+        },
+        {
+            "id": "442.0",
+            "Stad": "Roosendaal",
+            "Carnavalsnaam": "Tullepetaonestad"
+        },
+        {
+            "id": "443.0",
+            "Stad": "Roosteren",
+            "Carnavalsnaam": "'t Borchgraveriek"
+        },
+        {
+            "id": "444.0",
+            "Stad": "Rosmalen",
+            "Carnavalsnaam": "Zandhazendurp"
+        },
+        {
+            "id": "445.0",
+            "Stad": "Rossum (Gelderland)",
+            "Carnavalsnaam": "Lorredurp"
+        },
+        {
+            "id": "446.0",
+            "Stad": "Rossum (Overijssel)",
+            "Carnavalsnaam": "Gött'nkeurndoarp"
+        },
+        {
+            "id": "447.0",
+            "Stad": "Rhenen",
+            "Carnavalsnaam": "'t Grebbehol"
+        },
+        {
+            "id": "448.0",
+            "Stad": "Rotterdam",
+            "Carnavalsnaam": "Dwalmdam"
+        },
+        {
+            "id": "449.0",
+            "Stad": "Rozenburg",
+            "Carnavalsnaam": "Smokenburg"
+        },
+        {
+            "id": "450.0",
+            "Stad": "Rucphen",
+            "Carnavalsnaam": "Kraaierijk"
+        },
+        {
+            "id": "451.0",
+            "Stad": "Sambeek",
+            "Carnavalsnaam": "Knoepersriek"
+        },
+        {
+            "id": "452.0",
+            "Stad": "Sas van Gent",
+            "Carnavalsnaam": "Betekoppenstad"
+        },
+        {
+            "id": "453.0",
+            "Stad": "Sassenheim",
+            "Carnavalsnaam": "Saksenrijk"
+        },
+        {
+            "id": "454.0",
+            "Stad": "Schagen",
+            "Carnavalsnaam": "Muggenburg"
+        },
+        {
+            "id": "455.0",
+            "Stad": "Schaijk",
+            "Carnavalsnaam": "Moesland"
+        },
+        {
+            "id": "456.0",
+            "Stad": "Schalkwijk",
+            "Carnavalsnaam": "Platneuzendorp"
+        },
+        {
+            "id": "457.0",
+            "Stad": "Schellinkhout",
+            "Carnavalsnaam": "Botstede"
+        },
+        {
+            "id": "458.0",
+            "Stad": "Schiedam",
+            "Carnavalsnaam": "Brandersgat"
+        },
+        {
+            "id": "459.0",
+            "Stad": "Schijf",
+            "Carnavalsnaam": "Torensjouwerslaand"
+        },
+        {
+            "id": "460.0",
+            "Stad": "Schijndel",
+            "Carnavalsnaam": "Schorsbos"
+        },
+        {
+            "id": "461.0",
+            "Stad": "Schin op Geul",
+            "Carnavalsnaam": "'t Waterratteriek"
+        },
+        {
+            "id": "462.0",
+            "Stad": "Schinveld",
+            "Carnavalsnaam": "Mukkebummele"
+        },
+        {
+            "id": "463.0",
+            "Stad": "Sevenum",
+            "Carnavalsnaam": "Ezelsriek"
+        },
+        {
+            "id": "464.0",
+            "Stad": "Siebengewald",
+            "Carnavalsnaam": "'t Bessembiendersriek"
+        },
+        {
+            "id": "465.0",
+            "Stad": "Silvolde",
+            "Carnavalsnaam": "Zillewold"
+        },
+        {
+            "id": "466.0",
+            "Stad": "Sint Anthonis",
+            "Carnavalsnaam": "Zeikmeikenrijk"
+        },
+        {
+            "id": "467.0",
+            "Stad": "Sint Hubert",
+            "Carnavalsnaam": "Bokkenriek"
+        },
+        {
+            "id": "468.0",
+            "Stad": "Sint Jansteen",
+            "Carnavalsnaam": "Ratteland"
+        },
+        {
+            "id": "469.0",
+            "Stad": "Sint-Maarten",
+            "Carnavalsnaam": "Sint Knorrenburg"
+        },
+        {
+            "id": "470.0",
+            "Stad": "Sint-Michielsgestel",
+            "Carnavalsnaam": "Bokkendonk"
+        },
+        {
+            "id": "471.0",
+            "Stad": "Sint Odiliënberg",
+            "Carnavalsnaam": "'t Geiteriek"
+        },
+        {
+            "id": "472.0",
+            "Stad": "Sint-Oedenrode",
+            "Carnavalsnaam": "Papgat"
+        },
+        {
+            "id": "473.0",
+            "Stad": "Sittard",
+            "Carnavalsnaam": "Marotteriek"
+        },
+        {
+            "id": "474.0",
+            "Stad": "Slagharen",
+            "Carnavalsnaam": "Turfgat"
+        },
+        {
+            "id": "475.0",
+            "Stad": "Slijk-Ewijk",
+            "Carnavalsnaam": "Keilenburg"
+        },
+        {
+            "id": "476.0",
+            "Stad": "Sneek",
+            "Carnavalsnaam": "Drabbelterp"
+        },
+        {
+            "id": "477.0",
+            "Stad": "Soerendonk",
+            "Carnavalsnaam": "Roesdonk"
+        },
+        {
+            "id": "478.0",
+            "Stad": "Soest",
+            "Carnavalsnaam": "Knollendam"
+        },
+        {
+            "id": "479.0",
+            "Stad": "Soesterberg",
+            "Carnavalsnaam": "Zotteklapland"
+        },
+        {
+            "id": "480.0",
+            "Stad": "Someren",
+            "Carnavalsnaam": "De Meerpoel"
+        },
+        {
+            "id": "481.0",
+            "Stad": "Someren-Eind",
+            "Carnavalsnaam": "De Plattevonder"
+        },
+        {
+            "id": "482.0",
+            "Stad": "Someren-Heide",
+            "Carnavalsnaam": "Land van de Keijepaol"
+        },
+        {
+            "id": "483.0",
+            "Stad": "Son en Breugel",
+            "Carnavalsnaam": "Krutjesgat"
+        },
+        {
+            "id": "484.0",
+            "Stad": "Spoordonk",
+            "Carnavalsnaam": "Olliedonk"
+        },
+        {
+            "id": "485.0",
+            "Stad": "Sprundel",
+            "Carnavalsnaam": "Nachtuilenrijk"
+        },
+        {
+            "id": "486.0",
+            "Stad": "Stampersgat",
+            "Carnavalsnaam": "Meekrapdurp"
+        },
+        {
+            "id": "487.0",
+            "Stad": "Standdaarbuiten",
+            "Carnavalsnaam": "Zwammegat"
+        },
+        {
+            "id": "488.0",
+            "Stad": "Steenbergen",
+            "Carnavalsnaam": "Strienestad"
+        },
+        {
+            "id": "489.0",
+            "Stad": "Steensel",
+            "Carnavalsnaam": "Pieregat"
+        },
+        {
+            "id": "490.0",
+            "Stad": "Steenwijk",
+            "Carnavalsnaam": "Moatenoord"
+        },
+        {
+            "id": "491.0",
+            "Stad": "Stein",
+            "Carnavalsnaam": "Bokkeriek"
+        },
+        {
+            "id": "492.0",
+            "Stad": "Sterksel",
+            "Carnavalsnaam": "Osserijk"
+        },
+        {
+            "id": "493.0",
+            "Stad": "Stevensbeek",
+            "Carnavalsnaam": "Snewbulten"
+        },
+        {
+            "id": "494.0",
+            "Stad": "Stevensweert",
+            "Carnavalsnaam": "Leefhöbberslandj"
+        },
+        {
+            "id": "495.0",
+            "Stad": "Steyl",
+            "Carnavalsnaam": "Duuvelsriek"
+        },
+        {
+            "id": "496.0",
+            "Stad": "Stiphout",
+            "Carnavalsnaam": "Spurriezeiersland"
+        },
+        {
+            "id": "497.0",
+            "Stad": "Stokkum (Montferland)",
+            "Carnavalsnaam": "Leertrekkersdorp"
+        },
+        {
+            "id": "498.0",
+            "Stad": "Stompwijk",
+            "Carnavalsnaam": "Gaandrië"
+        },
+        {
+            "id": "499.0",
+            "Stad": "St. Willebrord",
+            "Carnavalsnaam": "Heikneuterslaand"
+        },
+        {
+            "id": "500.0",
+            "Stad": "Susteren",
+            "Carnavalsnaam": "Graasboerriek"
+        },
+        {
+            "id": "501.0",
+            "Stad": "Swalmen",
+            "Carnavalsnaam": "Hopsjlokkersriek"
+        },
+        {
+            "id": "502.0",
+            "Stad": "Sweikhuizen",
+            "Carnavalsnaam": "Swenskes"
+        },
+        {
+            "id": "503.0",
+            "Stad": "Tegelen",
+            "Carnavalsnaam": "Oeles-riek"
+        },
+        {
+            "id": "504.0",
+            "Stad": "Ter Apel",
+            "Carnavalsnaam": "Kloosterwieke"
+        },
+        {
+            "id": "505.0",
+            "Stad": "Terheijden",
+            "Carnavalsnaam": "t Schraansersrijk"
+        },
+        {
+            "id": "506.0",
+            "Stad": "Terhole",
+            "Carnavalsnaam": "Loetzersland"
+        },
+        {
+            "id": "507.0",
+            "Stad": "Teteringen",
+            "Carnavalsnaam": "Totdenringen"
+        },
+        {
+            "id": "508.0",
+            "Stad": "Thorn",
+            "Carnavalsnaam": "t Geitebokkeriek"
+        },
+        {
+            "id": "509.0",
+            "Stad": "Tiel",
+            "Carnavalsnaam": "Hotsjekkerstad"
+        },
+        {
+            "id": "510.0",
+            "Stad": "Tijnje",
+            "Carnavalsnaam": "Pipegaelsgea"
+        },
+        {
+            "id": "511.0",
+            "Stad": "Tilburg",
+            "Carnavalsnaam": "Kruikenstad"
+        },
+        {
+            "id": "512.0",
+            "Stad": "Tilligte",
+            "Carnavalsnaam": "Waterpönskesdoarp"
+        },
+        {
+            "id": "513.0",
+            "Stad": "Tolkamer (samen met Lobith)",
+            "Carnavalsnaam": "Tollusland"
+        },
+        {
+            "id": "514.0",
+            "Stad": "Tubbergen",
+            "Carnavalsnaam": "Böllekesdoarp"
+        },
+        {
+            "id": "515.0",
+            "Stad": "Uden",
+            "Carnavalsnaam": "Knoerissenrijk"
+        },
+        {
+            "id": "516.0",
+            "Stad": "Udenhout",
+            "Carnavalsnaam": "D'n Haozenpot"
+        },
+        {
+            "id": "517.0",
+            "Stad": "Ugchelen",
+            "Carnavalsnaam": "Toeterdárp"
+        },
+        {
+            "id": "518.0",
+            "Stad": "Ulft",
+            "Carnavalsnaam": "Iseldonk"
+        },
+        {
+            "id": "519.0",
+            "Stad": "Ulicoten",
+            "Carnavalsnaam": "Haaikneuterslaand"
+        },
+        {
+            "id": "520.0",
+            "Stad": "Ulvenhout",
+            "Carnavalsnaam": "Bosuilendorp"
+        },
+        {
+            "id": "521.0",
+            "Stad": "Urmond",
+            "Carnavalsnaam": "'t Waterratteriek"
+        },
+        {
+            "id": "522.0",
+            "Stad": "Utrecht",
+            "Carnavalsnaam": "Leemput"
+        },
+        {
+            "id": "523.0",
+            "Stad": "Vaassen",
+            "Carnavalsnaam": "Rossumdaerp"
+        },
+        {
+            "id": "524.0",
+            "Stad": "Valkenburg",
+            "Carnavalsnaam": "'t Bokkeriek"
+        },
+        {
+            "id": "525.0",
+            "Stad": "Valkenswaard",
+            "Carnavalsnaam": "Striepersgat"
+        },
+        {
+            "id": "526.0",
+            "Stad": "Valburg",
+            "Carnavalsnaam": "Striekenburg"
+        },
+        {
+            "id": "527.0",
+            "Stad": "Vasse",
+            "Carnavalsnaam": "Spekscheetersdoarp"
+        },
+        {
+            "id": "528.0",
+            "Stad": "Veghel",
+            "Carnavalsnaam": "Kuussegat"
+        },
+        {
+            "id": "529.0",
+            "Stad": "Velddriel",
+            "Carnavalsnaam": "Schumersdurp"
+        },
+        {
+            "id": "530.0",
+            "Stad": "Velden",
+            "Carnavalsnaam": "De Wuilus"
+        },
+        {
+            "id": "531.0",
+            "Stad": "Veldhoven",
+            "Carnavalsnaam": "Rommelgat"
+        },
+        {
+            "id": "532.0",
+            "Stad": "Venlo",
+            "Carnavalsnaam": "Jocus Riék"
+        },
+        {
+            "id": "533.0",
+            "Stad": "Velp (Noord-Brabant)",
+            "Carnavalsnaam": "Zandkruiersrijk"
+        },
+        {
+            "id": "534.0",
+            "Stad": "Venray",
+            "Carnavalsnaam": "Piëlhaazeriek"
+        },
+        {
+            "id": "535.0",
+            "Stad": "Venhorst",
+            "Carnavalsnaam": "'t Peeltuuterland"
+        },
+        {
+            "id": "536.0",
+            "Stad": "Vessem",
+            "Carnavalsnaam": "Struifdonk"
+        },
+        {
+            "id": "537.0",
+            "Stad": "Vianen",
+            "Carnavalsnaam": "Reigergat"
+        },
+        {
+            "id": "538.0",
+            "Stad": "Vianen (Noord-Brabant)",
+            "Carnavalsnaam": "Heimussen"
+        },
+        {
+            "id": "539.0",
+            "Stad": "Vierlingsbeek",
+            "Carnavalsnaam": "'t Keieschietersriek"
+        },
+        {
+            "id": "540.0",
+            "Stad": "Vilsteren",
+            "Carnavalsnaam": "Piepenplassersdorp"
+        },
+        {
+            "id": "541.0",
+            "Stad": "Vinkel",
+            "Carnavalsnaam": "Kafland"
+        },
+        {
+            "id": "542.0",
+            "Stad": "Vlaardingen",
+            "Carnavalsnaam": "Buizengat"
+        },
+        {
+            "id": "543.0",
+            "Stad": "Vlierden",
+            "Carnavalsnaam": "Dors'T'vlegelland"
+        },
+        {
+            "id": "544.0",
+            "Stad": "Vlijmen",
+            "Carnavalsnaam": "Knotwilgendam"
+        },
+        {
+            "id": "545.0",
+            "Stad": "Vogelenzang",
+            "Carnavalsnaam": "Witte Honden Dorp"
+        },
+        {
+            "id": "546.0",
+            "Stad": "Vogelwaarde",
+            "Carnavalsnaam": "Vogelpiekland"
+        },
+        {
+            "id": "547.0",
+            "Stad": "Volkel",
+            "Carnavalsnaam": "Pieperland"
+        },
+        {
+            "id": "548.0",
+            "Stad": "Voorhout",
+            "Carnavalsnaam": "Bokkendorp"
+        },
+        {
+            "id": "549.0",
+            "Stad": "Vorstenbosch",
+            "Carnavalsnaam": "Piereslikkersrijk"
+        },
+        {
+            "id": "550.0",
+            "Stad": "Vroomshoop",
+            "Carnavalsnaam": "Smoezenlaand"
+        },
+        {
+            "id": "551.0",
+            "Stad": "Vught",
+            "Carnavalsnaam": "Dommelbaorzedurp"
+        },
+        {
+            "id": "552.0",
+            "Stad": "Waalre",
+            "Carnavalsnaam": "Keiengat"
+        },
+        {
+            "id": "553.0",
+            "Stad": "Waalwijk",
+            "Carnavalsnaam": "Schoenlapperslaand"
+        },
+        {
+            "id": "554.0",
+            "Stad": "Waddinxveen",
+            "Carnavalsnaam": "Slobberveen"
+        },
+        {
+            "id": "555.0",
+            "Stad": "Wagenberg",
+            "Carnavalsnaam": "Erpelrooierslaand"
+        },
+        {
+            "id": "556.0",
+            "Stad": "Wageningen",
+            "Carnavalsnaam": "Jolleberg"
+        },
+        {
+            "id": "557.0",
+            "Stad": "Wamel",
+            "Carnavalsnaam": "Veergat"
+        },
+        {
+            "id": "558.0",
+            "Stad": "Wanroij",
+            "Carnavalsnaam": "Paddenriek"
+        },
+        {
+            "id": "559.0",
+            "Stad": "Wanssum",
+            "Carnavalsnaam": "Wiendbuuleriek"
+        },
+        {
+            "id": "560.0",
+            "Stad": "Warmond",
+            "Carnavalsnaam": "Rijk der Billenprikkers"
+        },
+        {
+            "id": "561.0",
+            "Stad": "Waspik",
+            "Carnavalsnaam": "Maoneblusserslaand"
+        },
+        {
+            "id": "562.0",
+            "Stad": "Wateringen",
+            "Carnavalsnaam": "Bieringen"
+        },
+        {
+            "id": "563.0",
+            "Stad": "Weebosch (Bergeijk)",
+            "Carnavalsnaam": "'t Urnegat"
+        },
+        {
+            "id": "564.0",
+            "Stad": "Weerselo",
+            "Carnavalsnaam": "Knollenlaand"
+        },
+        {
+            "id": "565.0",
+            "Stad": "Weert",
+            "Carnavalsnaam": "Rogstaekersstad"
+        },
+        {
+            "id": "566.0",
+            "Stad": "Weesp",
+            "Carnavalsnaam": "Tobbegat"
+        },
+        {
+            "id": "567.0",
+            "Stad": "Wehl",
+            "Carnavalsnaam": "Snuuterderp"
+        },
+        {
+            "id": "568.0",
+            "Stad": "Welberg",
+            "Carnavalsnaam": "Raldal"
+        },
+        {
+            "id": "569.0",
+            "Stad": "Well (Limburg)",
+            "Carnavalsnaam": "Joertseriek"
+        },
+        {
+            "id": "570.0",
+            "Stad": "Wellerlooi",
+            "Carnavalsnaam": "Kuluuteriek"
+        },
+        {
+            "id": "571.0",
+            "Stad": "Werkhoven",
+            "Carnavalsnaam": "De Vergeten Hoek"
+        },
+        {
+            "id": "572.0",
+            "Stad": "Wernhout",
+            "Carnavalsnaam": "Zaantaozelaant"
+        },
+        {
+            "id": "573.0",
+            "Stad": "Westdorpe",
+            "Carnavalsnaam": "Koeterdurp"
+        },
+        {
+            "id": "574.0",
+            "Stad": "Westelbeers",
+            "Carnavalsnaam": "Strijkersgat"
+        },
+        {
+            "id": "575.0",
+            "Stad": "Westerhoven",
+            "Carnavalsnaam": "'t Koffiegat"
+        },
+        {
+            "id": "576.0",
+            "Stad": "Westervoort",
+            "Carnavalsnaam": "Doldorp"
+        },
+        {
+            "id": "577.0",
+            "Stad": "Westwoud",
+            "Carnavalsnaam": "Stuverdorp"
+        },
+        {
+            "id": "578.0",
+            "Stad": "Weurt",
+            "Carnavalsnaam": "'t Alde Biezenrijk"
+        },
+        {
+            "id": "579.0",
+            "Stad": "Wijchen",
+            "Carnavalsnaam": "Urnerijk"
+        },
+        {
+            "id": "580.0",
+            "Stad": "Wijhe",
+            "Carnavalsnaam": "Iesseldonk"
+        },
+        {
+            "id": "581.0",
+            "Stad": "Wijk bij Duurstede",
+            "Carnavalsnaam": "Kaieschaiterstad"
+        },
+        {
+            "id": "582.0",
+            "Stad": "Wijlre",
+            "Carnavalsnaam": "'t Puimeriek"
+        },
+        {
+            "id": "583.0",
+            "Stad": "Wilbertoord",
+            "Carnavalsnaam": "Klottenriek"
+        },
+        {
+            "id": "584.0",
+            "Stad": "Willemstad",
+            "Carnavalsnaam": "Kakeldonk"
+        },
+        {
+            "id": "585.0",
+            "Stad": "Willescop",
+            "Carnavalsnaam": "Stoepenscheiters"
+        },
+        {
+            "id": "586.0",
+            "Stad": "Wilp",
+            "Carnavalsnaam": "Broekersgat"
+        },
+        {
+            "id": "587.0",
+            "Stad": "Winssen",
+            "Carnavalsnaam": "Oelewaal"
+        },
+        {
+            "id": "588.0",
+            "Stad": "Wintelre",
+            "Carnavalsnaam": "Klepbroekenbult"
+        },
+        {
+            "id": "589.0",
+            "Stad": "Woensdrecht",
+            "Carnavalsnaam": "Wjeeldrecht"
+        },
+        {
+            "id": "590.0",
+            "Stad": "Woudrichem",
+            "Carnavalsnaam": "Mosterdgat"
+        },
+        {
+            "id": "591.0",
+            "Stad": "Wouw",
+            "Carnavalsnaam": "Paplaand"
+        },
+        {
+            "id": "592.0",
+            "Stad": "Wouwse Plantage",
+            "Carnavalsnaam": "Mastepinnelaand"
+        },
+        {
+            "id": "593.0",
+            "Stad": "Zandvoort",
+            "Carnavalsnaam": "Scharregat"
+        },
+        {
+            "id": "594.0",
+            "Stad": "Zaltbommel",
+            "Carnavalsnaam": "Mispelgat"
+        },
+        {
+            "id": "595.0",
+            "Stad": "Zeddam",
+            "Carnavalsnaam": "Pavertsdarp"
+        },
+        {
+            "id": "596.0",
+            "Stad": "Zeeland",
+            "Carnavalsnaam": "Smouzenrijk"
+        },
+        {
+            "id": "597.0",
+            "Stad": "Zegge",
+            "Carnavalsnaam": "Grasduinersdurp"
+        },
+        {
+            "id": "598.0",
+            "Stad": "Zeilberg",
+            "Carnavalsnaam": "Pottenbakkersrijk"
+        },
+        {
+            "id": "599.0",
+            "Stad": "Zelhem",
+            "Carnavalsnaam": "Plaggendarp"
+        },
+        {
+            "id": "600.0",
+            "Stad": "Zevenaar",
+            "Carnavalsnaam": "Boemelburcht"
+        },
+        {
+            "id": "601.0",
+            "Stad": "Zevenbergen",
+            "Carnavalsnaam": "Zeuvebultelaand"
+        },
+        {
+            "id": "602.0",
+            "Stad": "Zevenbergschen Hoek",
+            "Carnavalsnaam": "Snerkersdurp"
+        },
+        {
+            "id": "603.0",
+            "Stad": "Zijtaart",
+            "Carnavalsnaam": "Reigerland"
+        },
+        {
+            "id": "604.0",
+            "Stad": "Zoetermeer",
+            "Carnavalsnaam": "Soetelanden"
+        },
+        {
+            "id": "605.0",
+            "Stad": "Zundert",
+            "Carnavalsnaam": "Banaonblusserslaand"
+        },
+        {
+            "id": "606.0",
+            "Stad": "Zwijndrecht",
+            "Carnavalsnaam": "Peebos"
+        },
+        {
+            "id": "607.0",
+            "Stad": "Zwolle",
+            "Carnavalsnaam": "Sassendonk"
         }
     ]
 }

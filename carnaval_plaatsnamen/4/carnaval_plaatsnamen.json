@@ -1,4 +1,5 @@
 {
+
 "carnaval_plaatsnamen": [
  {
    "id": 1,
@@ -3037,8 +3038,33 @@
  },
  {
    "id": 608,
-   "Stad": "Dit is een update",
-   "Carnavalsnaam": "Ik ben geupdatet"
+   "Stad": "Versie 1",
+   "Caranavalsnaam": "Dit is versie 1"
+ },
+ {
+   "id": 609,
+   "Stad": "Versie 2",
+   "Caranavalsnaam": "Dit is versie 2"
+ },
+ {
+   "id": 610,
+   "Stad": "Versie 3",
+   "Caranavalsnaam": "Dit is versie 3"
+ },
+ {
+   "id": 608,
+   "Stad": "Versie 1",
+   "Caranavalsnaam": "Dit is versie 1"
+ },
+ {
+   "id": 609,
+   "Stad": "Versie 2",
+   "Caranavalsnaam": "Dit is versie 2"
+ },
+ {
+   "id": 610,
+   "Stad": "Versie 3",
+   "Caranavalsnaam": "Dit is versie 4"
  }
 ]
 }

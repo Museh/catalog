@@ -7,7 +7,7 @@
             "list_location":"/carnaval_plaatsnamen",
             "list_name":"carnaval plaatsnamen",
             "list_type":"spiekbrief",
-            "list_version":"4.0"
+            "list_version":"3.0"
         },
         {
           "available_languages":"#",
@@ -16,7 +16,7 @@
           "list_location":"/html_tags",
           "list_name":"HTML 5 tags",
           "list_type":"spiekbrief",
-          "list_version":"3.0"
+          "list_version":"2.0"
         }
     ]
 }
